@@ -75,3 +75,25 @@ body{
 .btn:hover{
     background-color: black;
 }
+
+#head{
+    color: #c1c1c1;
+    font-size: 131%;
+}
+
+.form-group{
+    color: #c1c1c1;
+    font-size: 17px;
+    padding: 3px;
+}
+
+.container{
+    border: 1px solid #cf13133b;
+    margin: 85px 33px;
+    width: 29%;
+    padding: 9px 6px;
+    display: block;
+    border-radius: 7px;
+    text-align: center;
+    background-color: #cce3110d;
+}
